@@ -1,7 +1,5 @@
 // alert('Hola desde app.js');
 
-
-
 // console.log( console.log('Hola Mundo') );
 
 let a = 10,
