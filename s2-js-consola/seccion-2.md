@@ -1,4 +1,8 @@
 # SECCIÓN 2
+- [Comentarios](#comentarios).
+- [Variables](#variables).
+- [Consolas](#consolas).
+- [Alerts](#alerts).
 
 ## Comentarios
 ``` js

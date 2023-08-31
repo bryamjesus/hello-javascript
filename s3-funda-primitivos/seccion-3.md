@@ -1,7 +1,5 @@
 # Fundamentos de JavaScript, primitivos, arreglos, objetos y funciones básicas
-
-- [Tipos de datos primitivos](#tipos-de-datos-primitivos)
-
+- [Tipos de datos primitivos](#tipos-de-datos-primitivos).
 
 ## Tipos de datos primitivos
 Es informacion que no es un objeto y no es inmutable. y son:
