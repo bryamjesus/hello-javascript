@@ -8,4 +8,3 @@ const seleccion = confirm('¿Está seguro de borrar esto?');
 console.log(seleccion);
 
 // console.log( global );
-
