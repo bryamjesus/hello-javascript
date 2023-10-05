@@ -22,9 +22,13 @@ Algunas maneras correctas
 let _ = 123; ✔
 let objeto$ = 123; ✔
 ```
-
 > **Palabras reservadas:**
 > [palabras-reservadas](/s3-funda-primitivos/src/assets/pdf/23-palabras-reservadas.pdf).
 > **Pagina para verificar si las palabras son reservadas :**
 > [palabras-reservadas](https://mothereff.in/js-variables).
+
+## Arreglos
+Los arreglos es un tipo de dato en el cual se puede almacenar cualquier tipo de dato.
+> **Código:**
+> [primitivos.js](/s3-funda-primitivos/src/assets/js/23-arreglos.js).
 
