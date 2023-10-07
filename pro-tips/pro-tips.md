@@ -7,3 +7,7 @@
 ## Asignacion de valores con operadores condicionales
 > **Código:**
 > [asiganaciones-operadores.js](/pro-tips/src/assets/js/2-asignaciones-operadores.js).
+
+## Otros usos para el operador ternario
+> **Código:**
+> [otros-usus-operador-ternario.js](/pro-tips/src/assets/js/3-otros-usos-operador-ternario.js).
