@@ -17,3 +17,8 @@ Una mejora manera de mejorar el codigo y no estar anidando muchos if, seria mejo
 ## Logica Booleana
 > **Código:**
 > [logica-booleana.js](/s4-estrutura-control-flujo/src/js/36-logica-booleana.js).
+
+## Operador ternario
+Un `IF` - `ELSE` resumido;
+> **Código:**
+> [operador-ternario.js](/s4-estrutura-control-flujo/src/js/38-operador-ternario.js).
