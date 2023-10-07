@@ -32,17 +32,17 @@ Los arreglos es un tipo de dato en el cual se puede almacenar cualquier tipo de 
 > **Código:**
 > [arreglos.js](/s3-funda-primitivos/src/assets/js/23-arreglos.js).
 
-# Más tipos de arreglos
+## Más tipos de arreglos
 Aca veremos un poco de funciones que se puede realizar con los arrays
 > **Código:**
 > [mas-arreglos.js](/s3-funda-primitivos/src/assets/js/24-mas-arreglos.js).
 
-# Objetos literales
+## Objetos literales
 Es un tipo de dato del cual su estrutura es de `Clave - Valor`
 > **Código:**
 > [mas-arreglos.js](/s3-funda-primitivos/src/assets/js/25-objetos-literales.js).
 
-# Más objetos literales
+## Más objetos literales
 Aca unos cuantas utilidades que podremos usar para los objetos literales, como:
 - Eliminar una propiedad.
 - Agregar propiedad.
@@ -54,3 +54,22 @@ Aca unos cuantas utilidades que podremos usar para los objetos literales, como:
 > [mas-arreglos.js](/s3-funda-primitivos/src/assets/js/26-mas-objetos-literales.js). <br>
 > **Más de objetos literales:**
 > [Objetos literales - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object).
+
+## Funciones
+Un bloque de codigo al cual podemos reutilizar. La mejor posicion para definir las funciones es al inicio. para asi poder llamarlo después.
+4 tipos para declarar una función.
+```js
+function holaFuncion(){}
+```
+```js
+const holaFuncion = function(){}
+```
+```js
+const holaFunction = () => {}
+```
+Este es solo si tiene un solo argumento.
+```js
+const holaFunction = argumento => {}
+```
+> **Código:**
+> [funciones.js](/s3-funda-primitivos/src/assets/js/27-funciones.js).
