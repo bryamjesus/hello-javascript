@@ -1,5 +1,6 @@
-// js todos los objetos son pasados por referencia
-// todos los primitivos se pasan por valor.
+/**
+ * Valor, referencia y romper referencia
+ */
 
 let a = 10;
 let b = a;
@@ -27,7 +28,7 @@ let tony = cambiaNombre(peter); // mandamos por referencia
 console.log({ peter, tony })
 
 /**
- * Crear copia de un objeto
+ * Crear copia de un objeto (Clonar)
  * Spreat Operator
  */
 let maria = { nombre: 'Maria' };
@@ -51,7 +52,7 @@ const frutas = ['Manzana', 'Pera', 'Piña'];
 
 const otrasFrutas = frutas;
 otrasFrutas.push('Mango');
-console.table({ frutas, otrasFrutas })
+console.table({ frutas, otrasFrutas });
 
 console.time('slice');
 const otrasFrutas3 = frutas.slice();
@@ -64,3 +65,9 @@ const otrasFrutas2 = [...frutas];
 otrasFrutas2.push('Mango');
 console.table({ frutas, otrasFrutas2 });
 console.timeEnd('spread');
+
+console.time('structuredClone');
+const otrasFruntas4 = [...frutas];
+otrasFruntas4.push('Mango');
+console.table({ otrasFruntas4, frutas });
+console.timeEnd('structuredClone');
