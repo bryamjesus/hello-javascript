@@ -1,9 +1,6 @@
 /**
  * FUNCIÓN
  */
-
-// Lugar correcto para crear una funcion siempre es al inicio para que luedo sea llamado
-
 function saludar(nombre) {
   // console.log('Hola Mundo desde saludar');
   console.log('Hola ' + nombre);
