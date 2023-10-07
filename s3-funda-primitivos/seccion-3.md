@@ -30,5 +30,11 @@ let objeto$ = 123; ✔
 ## Arreglos
 Los arreglos es un tipo de dato en el cual se puede almacenar cualquier tipo de dato.
 > **Código:**
-> [primitivos.js](/s3-funda-primitivos/src/assets/js/23-arreglos.js).
+> [arreglos.js](/s3-funda-primitivos/src/assets/js/23-arreglos.js).
 
+# Más tipos de arreglos
+Aca veremos un poco de funciones que se puede realizar con los arrays
+> **Código:**
+> [mas-arreglos.js](/s3-funda-primitivos/src/assets/js/24-mas-arreglos.js).
+
+# Objetos literales
