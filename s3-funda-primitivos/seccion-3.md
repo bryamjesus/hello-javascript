@@ -23,7 +23,7 @@ let _ = 123; ✔
 let objeto$ = 123; ✔
 ```
 > **Palabras reservadas:**
-> [palabras-reservadas](/s3-funda-primitivos/src/assets/pdf/23-palabras-reservadas.pdf).
+> [palabras-reservadas](/s3-funda-primitivos/src/assets/pdf/23-palabras-reservadas.pdf).<br>
 > **Pagina para verificar si las palabras son reservadas :**
 > [palabras-reservadas](https://mothereff.in/js-variables).
 
@@ -38,3 +38,19 @@ Aca veremos un poco de funciones que se puede realizar con los arrays
 > [mas-arreglos.js](/s3-funda-primitivos/src/assets/js/24-mas-arreglos.js).
 
 # Objetos literales
+Es un tipo de dato del cual su estrutura es de `Clave - Valor`
+> **Código:**
+> [mas-arreglos.js](/s3-funda-primitivos/src/assets/js/25-objetos-literales.js).
+
+# Más objetos literales
+Aca unos cuantas utilidades que podremos usar para los objetos literales, como:
+- Eliminar una propiedad.
+- Agregar propiedad.
+- Trabajar un objeto como array.
+- Bloquear el primer nivel de un objeto.
+- Obtener un listado de las propiedades del objeto.
+- Obtener un listado de los valores del objeto.
+> **Código:**
+> [mas-arreglos.js](/s3-funda-primitivos/src/assets/js/26-mas-objetos-literales.js). <br>
+> **Más de objetos literales:**
+> [Objetos literales - MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Object).

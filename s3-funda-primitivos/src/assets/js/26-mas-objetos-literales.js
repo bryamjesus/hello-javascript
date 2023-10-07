@@ -35,7 +35,7 @@ personaje.casado = true;
 console.log(personaje);
 
 /**
- * Trabajar un objetao como un array
+ * Trabajar un objeto como un array
  */
 const entriesPares = Object.entries(personaje);
 console.log(entriesPares);
