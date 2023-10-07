@@ -57,7 +57,7 @@ Aca unos cuantas utilidades que podremos usar para los objetos literales, como:
 
 ## Funciones
 Un bloque de codigo al cual podemos reutilizar. La mejor posicion para definir las funciones es al inicio. para asi poder llamarlo después.
-4 tipos para declarar una función.
+Existen 4 tipos para declarar una función.
 ```js
 function holaFuncion(){}
 ```
@@ -73,3 +73,8 @@ const holaFunction = argumento => {}
 ```
 > **Código:**
 > [funciones.js](/s3-funda-primitivos/src/assets/js/27-funciones.js).
+
+## Retorno Funciones
+Una función siempre va a devolver un valor, si no esta declarado el valor de retorno este sera de `undefined`.
+> **Código:**
+> [retorno-valor-funcion.js](/s3-funda-primitivos/src/assets/js/28-retorno-valor-funcion.js).

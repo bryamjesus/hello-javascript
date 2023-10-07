@@ -1,9 +1,5 @@
 /**
  * RETURN DE UNA FUNCIÓN
- * Cuando la funcion no tiene 
- * un return explicito
- * siempre va a devolver 
- * undefined
  */
 
 function saludar(nombre) {
