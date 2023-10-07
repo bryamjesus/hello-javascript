@@ -7,4 +7,9 @@ Para romper la referencia de los objetos, y poder clonar los objetos hay diferen
 
 ## If - Else
 > **Código:**
-> [if-else.js](/s4-estrutura-control-flujo/src/js/33-valor-referencia.js).
+> [if-else.js](/s4-estrutura-control-flujo/src/js/34-if-else.js).
+
+## Alternativa de IF - ELSE
+Una mejora manera de mejorar el codigo y no estar anidando muchos if, seria mejor usarlo con un objeto o con una array
+> **Código:**
+> [altenativa-if-else.js](/s4-estrutura-control-flujo/src/js/35-alternativa-if-else.js).
