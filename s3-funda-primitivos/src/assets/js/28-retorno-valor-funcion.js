@@ -10,28 +10,27 @@ function saludar(nombre) {
 
 const saludar2 = function (nombre) {
   console.log('Hola ' + nombre);
-}
+};
 
 const saludar3 = (nombre) => {
   console.log('Hola ' + nombre);
-}
+};
 
 const retornoDeSaludar = saludar('Bryam');
-console.log({ retornoDeSaludar })
-
+console.log({ retornoDeSaludar });
 
 function sumar(a, b) {
   return a + b;
 }
 
 const sumar2 = (a, b) => {
-  return a + b
-}
-const sumar2UnaLinea = (a, b) => a + b
+  return a + b;
+};
+const sumar2UnaLinea = (a, b) => a + b;
 
-console.log(sumar(1, 2))
-console.log(sumar2(1, 2))
-console.log(sumar2UnaLinea(1, 2))
+console.log(sumar(1, 2));
+console.log(sumar2(1, 2));
+console.log(sumar2UnaLinea(1, 2));
 
 function getAleatorio() {
   return Math.random();
