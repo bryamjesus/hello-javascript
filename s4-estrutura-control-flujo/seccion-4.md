@@ -26,3 +26,7 @@ Un `IF` - `ELSE` resumido.
 ## Switch
 > **Código:**
 > [switch.js](/s4-estrutura-control-flujo/src/js/40-switch.js).
+
+## While - Do While
+> **Código:**
+> [while-do-while.js](/s4-estrutura-control-flujo/src/js/41-while-do-while.js).
