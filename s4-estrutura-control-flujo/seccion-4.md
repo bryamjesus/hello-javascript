@@ -22,3 +22,7 @@ Una mejora manera de mejorar el codigo y no estar anidando muchos if, seria mejo
 Un `IF` - `ELSE` resumido.
 > **Código:**
 > [operador-ternario.js](/s4-estrutura-control-flujo/src/js/38-operador-ternario.js).
+
+## Switch
+> **Código:**
+> [switch.js](/s4-estrutura-control-flujo/src/js/40-switch.js).
