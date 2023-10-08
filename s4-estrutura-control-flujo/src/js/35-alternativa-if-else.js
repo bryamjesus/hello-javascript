@@ -21,8 +21,8 @@ const diaLetrasArray = [
 const fechaActual = new Date();
 let dia = fechaActual.getDay();
 
-// operador or `||` sirve para 
-// preguntar si tiene valor, no es nulo, 
+// operador or `||` sirve para
+// preguntar si tiene valor, no es nulo,
 // o no undefined muestra el mensaje
 console.log(diaLetrasObjeto[dia] || 'Dia no definido');
 console.log(diaLetrasArray[dia] || 'Dia no definido');
