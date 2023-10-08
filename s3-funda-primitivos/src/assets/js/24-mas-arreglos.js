@@ -13,11 +13,11 @@ console.log({ primero, ultimo });
  * Recorrer Arrays
  */
 juegos.forEach((elemento, indice, arreglo) => {
-  console.log({ elemento, indice, arreglo })
+  console.log({ elemento, indice, arreglo });
 });
 
 /**
- * Insertar nuevo elemento al final del array 
+ * Insertar nuevo elemento al final del array
  * @method push
  * Inserta un elemento al ultimo
  * @returns la nueva longitud del array
@@ -40,7 +40,7 @@ let elementoBorrado = juegos.pop();
 console.log({ elementoBorrado, juegos });
 
 let posicion = 1;
-console.log({ juegos })
+console.log({ juegos });
 /**
  * @method splice
  * @param start posicion que se requiere eliminar
@@ -55,4 +55,4 @@ console.log({ juegoBorrados, juegos });
  * @returns indice, -1 si no lo encuentra
  */
 let metroidIndex = juegos.indexOf('Metroid');
-console.log({ metroidIndex })
+console.log({ metroidIndex });

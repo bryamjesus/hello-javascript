@@ -7,7 +7,7 @@ let a = 10,
 const saludo = c + d;
 
 console.log({ a });
-console.table({ b })
+console.table({ b });
 console.warn({ c });
 console.error({ d });
 
