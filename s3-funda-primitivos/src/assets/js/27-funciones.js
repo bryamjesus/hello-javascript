@@ -11,12 +11,12 @@ function saludar(nombre) {
 const saludar2 = function (nombre) {
   // console.log('Hola Mundo desde saludar2');
   console.log('Hola ' + nombre);
-}
+};
 
 const saludar3 = (nombre) => {
   // console.log('Hola flecha');
   console.log('Hola ' + nombre);
-}
+};
 
 saludar(); // Hola undefined
 saludar('Bryam'); // Hola Bryam
